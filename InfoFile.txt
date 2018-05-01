@@ -1,0 +1,17 @@
+fonts directory contains files of every font created/used.
+
+objects directory got all the objects (Drayce, TreasureBox etc) code.
+
+options
+
+rooms directory got info about the platforms on which the levels will be played.
+
+scripts directory contains code that are launched by the objects during execution.
+
+sprites directory got all the frames of every objects.
+
+tileset direcotry memorizes the platforms sprites.
+
+viwes directory contains info about camera position.
+
+.yyp files is used to launch the game.
